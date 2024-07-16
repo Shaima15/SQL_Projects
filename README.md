@@ -10,7 +10,9 @@ This project required building a database from scratch and included creating ER 
 
 **2- Bike Data analysis and Dashboard creation**
 
-This project created a new database and imported 3 excel files into it which were later combined into one table using 'cte', 'union', and joins. Then, the SQL file was imported into PowerBI in order to create dynamic dashboard to allow the business to make informed decisions regarding price adjustments. 
+This project involved creating a new database and importing 3 Excel files into it which were later combined into one table using 'cte', 'union', and 'joins'. Then, the SQL file was imported into PowerBI to create a dynamic dashboard to help the organization answer the below: 
+
+Business Question: "Should Ray's Bike Shop" increase prices"?
 
 **PowerBI Dashboard:** [Bike_Dashboard](https://github.com/Shaima15/SQL_Projects/blob/main/Bike_Dashboard.pbix)
 
