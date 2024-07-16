@@ -1,6 +1,6 @@
 # SQL-Projects
 
-## IDE: MS SQL Server 
+## Tools: MS SQL Server and Power BI
 
 **1- Build Database for a Golf Course**
 
