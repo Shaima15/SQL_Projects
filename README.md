@@ -16,9 +16,8 @@ This project involved creating a new database and importing 3 Excel files into i
 Business Question: "Should Ray's Bike Shop" increase prices"?
 
 **PowerBI Dashboard:** [Bike_Dashboard](https://github.com/Shaima15/SQL_Projects/blob/main/Bike_Dashboard.pbix)
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 **3- Netflix Data Analysis and Visualization**
 
