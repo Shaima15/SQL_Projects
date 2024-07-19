@@ -8,8 +8,7 @@ This project required building a database from scratch and included creating ER 
 
 **Report:** [DSCI 723 Term project- Sheyma](https://github.com/Shaima15/SQL_Projects/blob/main/DSCI%20723%20Term%20project-%20Sheyma.docx) 
 
-
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **2- Bike Data analysis and Dashboard creation**
 
 This project involved creating a new database and importing 3 Excel files into it which were later combined into one table using 'cte', 'union', and 'joins'. Then, the SQL file was imported into PowerBI to create a dynamic dashboard to help the organization answer the below: 
@@ -17,8 +16,7 @@ This project involved creating a new database and importing 3 Excel files into i
 Business Question: "Should Ray's Bike Shop" increase prices"?
 
 **PowerBI Dashboard:** [Bike_Dashboard](https://github.com/Shaima15/SQL_Projects/blob/main/Bike_Dashboard.pbix)
-
-
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
