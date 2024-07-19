@@ -39,7 +39,7 @@ a) Total Movies and TV shows by release year
 b) Top 10 countries by Movies and TV shows
 c) Genre by total titles
 
-**Dashboard:** [Netflix_dashboard](https://github.com/Shaima15/SQL_Projects/blob/main/Bike_Dashboard.pbix)
+**Dashboard:** [Netflix_dashboard](https://github.com/Shaima15/SQL_Projects/blob/main/Netflix_dashboard.pbix)
 
 **Skills:** · Data Cleaning · Data Visualization · Data Analysis · Extract, Load, Transform (ELT) · Microsoft SQL Server · Python (Programming Language) · Microsoft Power BI
 
